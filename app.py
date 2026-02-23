@@ -43,7 +43,7 @@ st.divider()
 
 # 4. The Modules (All external links)
 
-# DVLA Guidelines (External Link)
+# Discharge Generator (External Link)
 st.link_button("Discharge Generator", 
                "https://discharge-generator.streamlit.app/", 
                use_container_width=True)
@@ -53,7 +53,7 @@ st.link_button("SafeCheck",
                "https://check-in-safecheck.streamlit.app/", 
                use_container_width=True)
 
-# SafeCheck (External Link)
+# QR Code Generator Pro Dashboard (External Link)
 st.link_button("QR Code Generator Pro Dashboard", 
                "https://qr-code-generator-1.streamlit.app/", 
                use_container_width=True)
@@ -61,6 +61,11 @@ st.link_button("QR Code Generator Pro Dashboard",
 # Superhero Roadmap Timeline (External Link)
 st.link_button("Superhero Roadmap Timeline", 
                "https://superhero-roadmap.streamlit.app/", 
+               use_container_width=True)
+
+# Global Medical Passport (External Link)
+st.link_button("Global Medical Passport", 
+               "https://medicalpassport.streamlit.app/", 
                use_container_width=True)
 
 
